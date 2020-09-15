@@ -40,3 +40,8 @@ To reproduce our experiments with FEAT, please use **train_fsl.py**. There are f
 - `tempreture_ssl`:
 - `alpha`:
 - `lamda`
+
+**Reference**
+
+(FEAT)[]
+(PRWN)[]
