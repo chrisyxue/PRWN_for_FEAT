@@ -43,5 +43,6 @@ To reproduce our experiments with FEAT, please use **train_fsl.py**. There are f
 
 **Reference**
 
-[FEAT]()
+[FEAT](https://github.com/Sha-Lab/FEAT)
+
 [PRWN]()
