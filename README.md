@@ -36,13 +36,13 @@ To reproduce our experiments with FEAT, please use **train_fsl.py**. There are f
 **For PRW**
 
 - `is_ssl`: Use PRW loss or not, as well as Semi-supervised or Supervised. Default to `1`
-- `tau`: 
+- `tau`:  
 - `tempreture_ssl`:
 - `alpha`:
-- `lamda`
+- `lamda`: the weight of the loss. Default to `1`
 
 **Reference**
 
 [FEAT](https://github.com/Sha-Lab/FEAT)
 
-[PRWN]()
+[PRWN](https://github.com/AhmedAyad89/Consitent-Prototypical-Networks-Semi-Supervised-Few-Shot-Learning)
